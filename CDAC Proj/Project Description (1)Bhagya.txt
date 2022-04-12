@@ -1,0 +1,7 @@
+The aim of our Project “Talk Your Doc” is to provide online Doctor consultancy service. 
+It fulfills the purpose of consulting patients irrespective of the time and place. 
+To build our project, we used latest technologies such as SpringToolSuit to setup the project.
+SpringBoot(2.6.5) for our backend (REST API services) and for storing all the records, we used MySQL database.
+Based on Spring core framework we provided all secure dependencies.
+For the UI, we used ReactJS and bootstrap(5.1.1) to customize the look of our app.
+Axios(0.21.4) to communicate frontend to backend.

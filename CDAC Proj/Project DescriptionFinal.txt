@@ -1,0 +1,6 @@
+The aim of our Project “Talk with Doc” is to ease the process of getting medical treatment and health checkup 
+in a way that saves both time and effort. It fulfills the purpose of consulting patients irrespective of the time and place. 
+We used J2EE(SpringBoot 2.6.5) for our backend (REST API services) of “Talk with Doc” and in this we used mysql database to store 
+our all record. We also used SpringToolSuit most compatible version to setup the project, based on Spring core framework we provided 
+all secure dependencies and for the UI we used ReactJS and bootstrap(5.1.1) to customize 
+the look of our app and axios(0.21.4) to communicate frontend to backend.
